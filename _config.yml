@@ -1,0 +1,28 @@
+name: nealwickens1
+favicon: null
+layout_spectrum: 0.0123585294932127
+typography_spectrum: 0.756363304099068
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.022981850430369377
+  lightness: 0.11961459531448781
+  saturation: 0.706596955889836
+  rhythmicContrast: 0.5294814782682806
+purpose: []
